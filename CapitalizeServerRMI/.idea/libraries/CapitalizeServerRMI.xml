@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CapitalizeServerRMI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CapitalizeServerRMI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
